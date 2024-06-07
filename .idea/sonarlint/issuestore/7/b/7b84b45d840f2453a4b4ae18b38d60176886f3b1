@@ -1,0 +1,9 @@
+
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛîÏ 8òç¾–ÿ1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÀÁ8è¾–ÿ1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¶Ş£ıÿÿÿÿ8áÏ‚İş1
+D
+java:S1604,"(Make this anonymous inner class a lambda(ÏâÍN8‘è¾–ÿ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©úØşÿÿÿÿ8åÏ‚İş1
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8Êé¾–ÿ1

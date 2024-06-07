@@ -1,0 +1,116 @@
+
+m	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¿38½¼İş1
+s	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾í·Ôÿÿÿÿÿ8Ÿ½¼İş1
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğûèÃ8Ÿ½¼İş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óé„Øıÿÿÿÿ8¤½¼İş1
+o	java:S116f"NRename this field "b_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âàøÿÿÿÿ8À½¼İş1
+i	java:S116g"NRename this field "b_o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥š¹Y8À½¼İş1
+w	java:S116h"VRename this field "contact_u_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÈì¸ıÿÿÿÿ8À½¼İş1
+p	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ²Ûˆÿÿÿÿÿ8É½¼İş1
+j	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¿38Ê½¼İş1
+p	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğùú¡ùÿÿÿÿ8Ê½¼İş1
+p	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾í·Ôÿÿÿÿÿ8Ì½¼İş1
+j	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ´Œ8Ï½¼İş1
+k	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğûèÃ8Ğ½¼İş1
+p	java:S116á"NRename this field "u_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’›¹ßùÿÿÿÿ8Ü½¼İş1
+p	java:S116ÿ"NRename this field "b_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âàøÿÿÿÿ8İ½¼İş1
+j	java:S116€"NRename this field "b_o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥š¹Y8İ½¼İş1
+p	java:S116"NRename this field "u_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’›¹ßùÿÿÿÿ8İ½¼İş1
+J
+java:S1068á"'Remove this unused "u_c" private field.(’›¹ßùÿÿÿÿ8ß½¼İş1
+M
+java:S1068â"*Remove this unused "invite" private field.(€³Úİıÿÿÿÿ8à½¼İş1
+G
+java:S1068ã")Remove this unused "right" private field.(Âï½®8à½¼İş1
+L
+java:S1068é")Remove this unused "sfpid" private field.(±şª„ùÿÿÿÿ8à½¼İş1
+F
+java:S1068ê"(Remove this unused "name" private field.(Ë¥¼8à½¼İş1
+N
+java:S1068ë"0Remove this unused "lastModified" private field.(šóó¦8à½¼İş1
+K
+java:S1068ñ"(Remove this unused "smid" private field.(ßÇ·ƒøÿÿÿÿ8à½¼İş1
+K
+java:S1068ò"(Remove this unused "uuid" private field.(´İ›œÿÿÿÿÿ8à½¼İş1
+H
+java:S1068ó"*Remove this unused "sstamp" private field.(èâ8à½¼İş1
+O
+java:S1068ô"1Remove this unused "lastCommentId" private field.(«œï8à½¼İş1
+H
+java:S1068õ"+Remove this unused "msgBody" private field.(ÏñüC8à½¼İş1
+R
+java:S1068ö"/Remove this unused "msgBodyHtml" private field.(…‘¬òÿÿÿÿÿ8à½¼İş1
+N
+java:S1068÷"+Remove this unused "msgType" private field.(‡š×ªùÿÿÿÿ8à½¼İş1
+J
+java:S1068ø"-Remove this unused "msgMethod" private field.(èƒ¡t8à½¼İş1
+O
+java:S1068ù",Remove this unused "msgColor" private field.(ÉşÔÿÿÿÿÿ8à½¼İş1
+L
+java:S1068ú".Remove this unused "nbComments" private field.(á¶î8à½¼İş1
+E
+java:S1068û"'Remove this unused "pid" private field.(­˜äç8à½¼İş1
+J
+java:S1068ü",Remove this unused "nbMedias" private field.(ï½²¾8á½¼İş1
+M
+java:S1068ı"/Remove this unused "nbEmailCids" private field.(ˆ‰ëê8á½¼İş1
+H
+java:S1068ş"*Remove this unused "nbDocs" private field.(’í€Ô8á½¼İş1
+J
+java:S1068ÿ"'Remove this unused "b_c" private field.(Âàøÿÿÿÿ8á½¼İş1
+D
+java:S1068€"'Remove this unused "b_o" private field.(¥š¹Y8á½¼İş1
+J
+java:S1068"'Remove this unused "u_c" private field.(’›¹ßùÿÿÿÿ8á½¼İş1
+E
+java:S1068‚"'Remove this unused "msg" private field.(­îøï8á½¼İş1
+E
+java:S1068ƒ"'Remove this unused "del" private field.(°ğè£8á½¼İş1
+N
+java:S1068„"+Remove this unused "created" private field.(…´ü”üÿÿÿÿ8á½¼İş1
+N
+java:S1068…"0Remove this unused "lastModified" private field.(šóó¦8á½¼İş1
+H
+java:S1068†"*Remove this unused "medias" private field.(¾›‚ù8á½¼İş1
+I
+java:S1068Œ"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8á½¼İş1
+E
+java:S1068"'Remove this unused "ext" private field.(¡êÔĞ8á½¼İş1
+Q
+java:S1068".Remove this unused "originName" private field.(ßİ†øÿÿÿÿ8á½¼İş1
+Q
+java:S1068".Remove this unused "internName" private field.(Æª±Ìøÿÿÿÿ8á½¼İş1
+E
+java:S1068"(Remove this unused "size" private field.(‰öÆ)8á½¼İş1
+K
+java:S1068‘"(Remove this unused "type" private field.(–î†ûÿÿÿÿ8á½¼İş1
+J
+java:S1068’",Remove this unused "emailCid" private field.(î·É¿8á½¼İş1
+E
+java:S1068“"'Remove this unused "del" private field.(°ğè£8á½¼İş1
+P
+java:S1068™"2Remove this unused "maxMsgsOffline" private field.(Ê€¯ş8á½¼İş1
+T
+java:S1068š"1Remove this unused "syncWithHubic" private field.(Ÿ“çÌúÿÿÿÿ8á½¼İş1
+[
+java:S1068›"8Remove this unused "uCoverLetOwnerDecide" private field.(àÀîìşÿÿÿÿ8á½¼İş1
+R
+java:S1068œ"/Remove this unused "uCoverColor" private field.(ñ»İşùÿÿÿÿ8á½¼İş1
+R
+java:S1068"4Remove this unused "uCoverUseLastImg" private field.(£ÓÂ²8á½¼İş1
+P
+java:S1068"-Remove this unused "uCoverImg" private field.(¾ßÙúÿÿÿÿ8â½¼İş1
+Q
+java:S1068Ÿ".Remove this unused "uCoverType" private field.(•’®ùÿÿÿÿ8â½¼İş1
+U
+java:S1068 "2Remove this unused "inGlobalSearch" private field.(Ç¦à«ıÿÿÿÿ8â½¼İş1
+T
+java:S1068¡"1Remove this unused "inGlobalTasks" private field.(Ğ®è‚ÿÿÿÿÿ8â½¼İş1
+V
+java:S1068¢"3Remove this unused "notifyEmailCopy" private field.(éÙçßüÿÿÿÿ8â½¼İş1
+O
+java:S1068£"1Remove this unused "notifySmsCopy" private field.(¬óæ×8â½¼İş1
+S
+java:S1068¤"0Remove this unused "notifyMobile" private field.(ÎäÚùøÿÿÿÿ8â½¼İş1
+]
+java:S1068¥"?Remove this unused "notifyWhenMsgInArchivedBook" private field.(ÎÀÛ8â½¼İş1

@@ -1,0 +1,7 @@
+
+r
+java:S1104."PMake text a static final constant or non-public and provide accessors if needed.(æÃ¿‡ÿÿÿÿÿ8àÑ÷¨ş1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬¼…şÿÿÿÿ8êøä§ş1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Ûÿ£8ëøä§ş1
+
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğƒÑF8ûøä§ş1

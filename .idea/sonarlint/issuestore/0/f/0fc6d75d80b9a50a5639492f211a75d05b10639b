@@ -1,0 +1,17 @@
+
+m	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•–ı8ë›òÜş1
+J
+java:S1604-"(Make this anonymous inner class a lambda(ãæüüÿÿÿÿ8Ëí¾–ÿ1
+E
+java:S1604@"(Make this anonymous inner class a lambda(¡©õÌ8Ëí¾–ÿ1
+E
+java:S1604M"(Make this anonymous inner class a lambda(Ş×Æ¼8Ëí¾–ÿ1
+F
+java:S1659")Declare "pswEditText" on a separate line.(¡‹¦õ8¿œòÜş1
+v
+java:S1450"ZRemove the "buttonLogin" field and declare it as a local variable in the relevant methods.(ñ±k8¿œòÜş1
+y
+java:S1450"\Remove the "emailEditText" field and declare it as a local variable in the relevant methods.(¡‹¦õ8‚îØÜş1
+w
+java:S1450"ZRemove the "pswEditText" field and declare it as a local variable in the relevant methods.(¡‹¦õ8ÂœòÜş1
+X	java:S125D"<This block of commented-out lines of code should be removed.(Ñ¨Äö8˜ï¾–ÿ1

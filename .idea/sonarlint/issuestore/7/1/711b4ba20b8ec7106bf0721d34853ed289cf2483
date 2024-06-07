@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š£Åàúÿÿÿÿ8†€ÅÌı1
+o	java:S116"NRename this field "o_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±·€‹øÿÿÿÿ8‰€ÅÌı1
+o	java:S116"NRename this field "u_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’›¹ßùÿÿÿÿ8‰€ÅÌı1
+M
+java:S1068"+Remove this unused "version" private field.(³ñ˜Ÿùÿÿÿÿ8€ÅÌı1
+I
+java:S1068"'Remove this unused "o_c" private field.(±·€‹øÿÿÿÿ8€ÅÌı1
+I
+java:S1068"'Remove this unused "u_c" private field.(’›¹ßùÿÿÿÿ8€ÅÌı1
+N
+java:S1068",Remove this unused "oauthkey" private field.(áĞñˆüÿÿÿÿ8€ÅÌı1
